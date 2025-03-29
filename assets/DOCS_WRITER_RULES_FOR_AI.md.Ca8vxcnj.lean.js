@@ -1,0 +1,1 @@
+import{_,c as e,o as t}from"./chunks/framework.tuuL-SzM.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"DOCS_WRITER_RULES_FOR_AI.md","filePath":"DOCS_WRITER_RULES_FOR_AI.md"}'),a={name:"DOCS_WRITER_RULES_FOR_AI.md"};function r(o,s,R,c,n,p){return t(),e("div")}const m=_(a,[["render",r]]);export{i as __pageData,m as default};
